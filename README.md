@@ -6,6 +6,10 @@ Authors: Anthony Lewis; Chase Cecora
 JC/CSS Inspiration: https://github.com/baspete/Split-Flap
 
 Steps Remaining:
-- [ ] Create crawler for PATH train schedules leaving from destination
+- [ ] Create generalized crawler for PATH train schedules leaving from generic destinations
 - [ ] Create generalized data loader for handling config creation
 - [ ] Incorporate elements form ^ repo
+
+# PATH Train Schedules:
+https://old.panynj.gov/path/schedules-full-screen-mod.cfm?id=HOB_33rd_Weekday
+https://old.panynj.gov/path/schedules-full-screen-mod.cfm?id=HOB_WTC_Weekday
