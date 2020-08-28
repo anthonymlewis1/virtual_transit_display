@@ -1,0 +1,4 @@
+beautifulsoup4==4.6.0
+geocoder==1.38.1
+requests==2.24.0
+pandas==0.23.0
