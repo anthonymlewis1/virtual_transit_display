@@ -7,5 +7,5 @@ JC/CSS Inspiration: https://github.com/baspete/Split-Flap
 
 Steps Remaining:
 - [ ] Create crawler for PATH train schedules leaving from destination
-- [ ] Create data loader for handling config creation
+- [ ] Create generalized data loader for handling config creation
 - [ ] Incorporate elements form ^ repo
