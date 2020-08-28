@@ -1,0 +1,29 @@
+{
+    data: [
+        {
+            airline: "JBU",
+            flight: 541,
+            city: "Durban",
+            gate: "A20",
+            scheduled: "0233",
+            status: "A"
+        },
+        {
+            airline: "SWA",
+            flight: 1367,
+            city: "Roanoake",
+            gate: "B13",
+            scheduled: "1416",
+            status: "B",
+            remarks: "Delayed 13M"
+        },
+        {
+            airline: "JBU",
+            flight: 1685,
+            city: "Charleston",
+            gate: "A18",
+            scheduled: "0042",
+            status: "A"
+        }
+    ]
+}
