@@ -1,4 +1,7 @@
-''' Parking Scraper.py '''
+'''crawler_hb_str_clean.py 
+Web crawler will go into the Hoboken Street Cleaning and return the timetable
+'''
+
 # GENERAL
 import os
 import random
