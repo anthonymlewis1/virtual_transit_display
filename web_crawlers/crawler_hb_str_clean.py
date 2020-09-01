@@ -28,9 +28,7 @@ class ParkingScraper:
         self.get_parking_data()
         self.organize_parking_data()
         self.clean_parking_data()
-
-        df = pd.DataFrame(self.cleaned_data)
-
+        return self.cleaned_data
 
     def get_parking_data(self):
         '''Get the table from the website'''
@@ -114,8 +112,8 @@ class ParkingScraper:
                 park_group['End Street'] = set_streets[1]
 
             
-            conv_coords = self.convert_to_coord_data(base_street, set_streets[0], set_streets[1])
-            park_group['Coordinates'] = conv_coords
+            # conv_coords = self.convert_to_coord_data(base_street, set_streets[0], set_streets[1])
+            # park_group['Coordinates'] = conv_coords
             self.cleaned_data.append(park_group)
 
 
