@@ -1,0 +1,256 @@
+{
+    "data": [
+        {
+            "Category": "PARK",
+            "Destination": "Eighth St",
+            "Start Time": "15:00",
+            "End Time": "16:00",
+            "Remarks": "Willow Ave. through Jackson St. until Wednesday"
+        },
+        {
+            "Category": "PARK",
+            "Destination": "Twelfth St",
+            "Start Time": "15:00",
+            "End Time": "16:00",
+            "Remarks": "West boundary through Willow Ave. until Friday"
+        },
+        {
+            "Category": "PARK",
+            "Destination": "Twelfth St",
+            "Start Time": "15:00",
+            "End Time": "16:00",
+            "Remarks": "West boundary through Willow Ave. until Thursday"
+        },
+        {
+            "Category": "PARK",
+            "Destination": "Thirteenth St",
+            "Start Time": "15:00",
+            "End Time": "16:00",
+            "Remarks": "Willow Ave. through Madison St. until Thursday"
+        },
+        {
+            "Category": "PARK",
+            "Destination": "Sixth St",
+            "Start Time": "15:00",
+            "End Time": "16:00",
+            "Remarks": "Willow Ave. through west boundary until Tuesday"
+        },
+        {
+            "Category": "PARK",
+            "Destination": "Sixteenth St",
+            "Start Time": "15:00",
+            "End Time": "16:00",
+            "Remarks": "West boundary through Park Ave. until Friday"
+        },
+        {
+            "Category": "PARK",
+            "Destination": "Sixteenth St",
+            "Start Time": "15:00",
+            "End Time": "16:00",
+            "Remarks": "West boundary through Park Ave. until Wednesday"
+        },
+        {
+            "Category": "PARK",
+            "Destination": "Seventh St",
+            "Start Time": "15:00",
+            "End Time": "16:00",
+            "Remarks": "Jackson St. through Willow Ave. until Friday"
+        },
+        {
+            "Category": "PARK",
+            "Destination": "Seventh St",
+            "Start Time": "15:00",
+            "End Time": "16:00",
+            "Remarks": "Jackson St. through Willow Ave. until Wednesday"
+        },
+        {
+            "Category": "PARK",
+            "Destination": "Ninth St",
+            "Start Time": "15:00",
+            "End Time": "16:00",
+            "Remarks": "Jackson St. through Willow Ave. until Friday"
+        },
+        {
+            "Category": "PARK",
+            "Destination": "Thirteenth St",
+            "Start Time": "15:00",
+            "End Time": "16:00",
+            "Remarks": "Willow Ave. through Madison St. until Friday"
+        },
+        {
+            "Category": "PARK",
+            "Destination": "Fourth St",
+            "Start Time": "15:00",
+            "End Time": "16:00",
+            "Remarks": "Willow Ave. through Harrison St. until Tuesday"
+        },
+        {
+            "Category": "PARK",
+            "Destination": "Fifth St",
+            "Start Time": "15:00",
+            "End Time": "16:00",
+            "Remarks": "Jackson St. through Grand St. until Tuesday"
+        },
+        {
+            "Category": "PARK",
+            "Destination": "Fifteenth St",
+            "Start Time": "15:00",
+            "End Time": "16:00",
+            "Remarks": "Sinatra Drive through Park Ave. until Wednesday"
+        },
+        {
+            "Category": "PARK",
+            "Destination": "Fifteenth St",
+            "Start Time": "15:00",
+            "End Time": "16:00",
+            "Remarks": "Park Ave. through Madison St. until Friday"
+        },
+        {
+            "Category": "PARK",
+            "Destination": "Fifteenth St",
+            "Start Time": "15:00",
+            "End Time": "16:00",
+            "Remarks": "Park Ave. through Madison St. until Wednesday"
+        },
+        {
+            "Category": "PARK",
+            "Destination": "Eleventh St",
+            "Start Time": "15:00",
+            "End Time": "16:00",
+            "Remarks": "Willow Ave. through Monroe St. until Friday"
+        },
+        {
+            "Category": "PARK",
+            "Destination": "Ninth St",
+            "Start Time": "15:00",
+            "End Time": "16:00",
+            "Remarks": "Jackson St. through Willow Ave. until Wednesday"
+        },
+        {
+            "Category": "PARK",
+            "Destination": "Eleventh St",
+            "Start Time": "15:00",
+            "End Time": "16:00",
+            "Remarks": "Willow Ave. through Monroe St. until Thursday"
+        },
+        {
+            "Category": "PARK",
+            "Destination": "Eighth St",
+            "Start Time": "15:00",
+            "End Time": "16:00",
+            "Remarks": "Willow Ave. through Jackson St. until Friday"
+        },
+        {
+            "Category": "PATH",
+            "Destination": "33 St",
+            "Start Time": "19:52",
+            "End Time": "19:52",
+            "Remarks": ""
+        },
+        {
+            "Category": "PATH",
+            "Destination": "33 St",
+            "Start Time": "20:02",
+            "End Time": "20:02",
+            "Remarks": ""
+        },
+        {
+            "Category": "PATH",
+            "Destination": "33 St",
+            "Start Time": "20:12",
+            "End Time": "20:12",
+            "Remarks": ""
+        },
+        {
+            "Category": "PATH",
+            "Destination": "33 St",
+            "Start Time": "20:22",
+            "End Time": "20:22",
+            "Remarks": ""
+        },
+        {
+            "Category": "PATH",
+            "Destination": "33 St",
+            "Start Time": "20:32",
+            "End Time": "20:32",
+            "Remarks": ""
+        },
+        {
+            "Category": "PATH",
+            "Destination": "33 St",
+            "Start Time": "20:42",
+            "End Time": "20:42",
+            "Remarks": ""
+        },
+        {
+            "Category": "PATH",
+            "Destination": "33 St",
+            "Start Time": "20:52",
+            "End Time": "20:52",
+            "Remarks": ""
+        },
+        {
+            "Category": "PATH",
+            "Destination": "33 St",
+            "Start Time": "21:02",
+            "End Time": "21:02",
+            "Remarks": ""
+        },
+        {
+            "Category": "PATH",
+            "Destination": "33 St",
+            "Start Time": "21:12",
+            "End Time": "21:12",
+            "Remarks": ""
+        },
+        {
+            "Category": "PATH",
+            "Destination": "33 St",
+            "Start Time": "21:25",
+            "End Time": "21:25",
+            "Remarks": ""
+        },
+        {
+            "Category": "PATH",
+            "Destination": "33 St",
+            "Start Time": "21:40",
+            "End Time": "21:40",
+            "Remarks": ""
+        },
+        {
+            "Category": "PATH",
+            "Destination": "33 St",
+            "Start Time": "21:55",
+            "End Time": "21:55",
+            "Remarks": ""
+        },
+        {
+            "Category": "PATH",
+            "Destination": "33 St",
+            "Start Time": "22:10",
+            "End Time": "22:10",
+            "Remarks": ""
+        },
+        {
+            "Category": "PATH",
+            "Destination": "33 St",
+            "Start Time": "22:25",
+            "End Time": "22:25",
+            "Remarks": ""
+        },
+        {
+            "Category": "PATH",
+            "Destination": "33 St",
+            "Start Time": "22:40",
+            "End Time": "22:40",
+            "Remarks": ""
+        },
+        {
+            "Category": "PATH",
+            "Destination": "33 St",
+            "Start Time": "22:55",
+            "End Time": "22:55",
+            "Remarks": ""
+        }
+    ]
+}
