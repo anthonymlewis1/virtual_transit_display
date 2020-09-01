@@ -72,7 +72,6 @@ class DataManager:
     def filtered_street_clean_data(self):
         self.time_now = datetime.now()
         df = self.raw_street_clean_data
-        self.time_now = self.time_now.replace(hour=14)
         df['Category'] = 'PARK'
         df['Remarks'] = df['Start Street'].str.cat(df['End Street'],sep=" through ")
         df['Remarks'] = df['Remarks'].str.cat(df['End Date'],sep=" until ")
