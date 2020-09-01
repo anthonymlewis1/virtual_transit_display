@@ -4,8 +4,8 @@ Designed to take in a periodically updated config of transit information and dis
 JC/CSS Inspiration: https://github.com/baspete/Split-Flap
 
 ### Steps Remaining (Listed in order of necessary completion):
-- [ ] Create generalized crawler for PATH train schedules leaving from generic destinations
-- [ ] Create generalized data loader for handling config creation -> Front End
+- [x] Create generalized crawler for PATH train schedules leaving from generic destinations
+- [x] Create generalized data loader for handling config creation -> Front End
 - [ ] Create scheduler function for executing scraping 
 - [ ] Create CI process for updating app 
 - [ ] Get Python scraper dependencies to install with Front End dependencies [(via npm install)](https://github.com/baspete/Split-Flap#installation)  
@@ -19,6 +19,6 @@ JC/CSS Inspiration: https://github.com/baspete/Split-Flap
  - https://old.panynj.gov/path/schedules-full-screen-mod.cfm?id=HOB_WTC_Weekday
 
 ## Parking:
-- (insert here)
+- https://www.hobokennj.gov/resources/street-cleaning-schedule
 
 ### Authors: Anthony Lewis; Chase Cecora
