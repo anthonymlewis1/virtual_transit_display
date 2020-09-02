@@ -137,3 +137,8 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Project specific directories
+app/public/img/split-flap-letters-yellow-sm-full.pxd/data/
+app/public/plugins/arrivals/airline_logos.pxd/data/
+app/node_modules
+*.log
